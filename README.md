@@ -1,25 +1,57 @@
+<p align="center">
+  <img src="<URL_DO_BANNER>" alt="Pedro Lucca - AI Developer Banner" width="100%" />
+</p>
+
 # 👨🏾‍💻 Pedro Lucca
 
-**`| FullStack Developer | UX Designer | Python • Javascript • TypeScript • SQL | Student of Systems Analysis and Development at PUCPR |`**
+**`| FullStack Developer • AI Engineer • UX Designer | Python • JavaScript • TypeScript • SQL | Systems Analysis Student @ PUCPR |`**
 
-I am a full-stack developer and UX designer with experience in Python, JavaScript, TypeScript, and frameworks such as Node.js, Flask, Vue.js, and React. I have expertise in data science, predictive and generative AI, creating innovative solutions like chatbots and autonomous agents. I am skilled in tools like Figma, Adobe Illustrator, and After Effects, focusing on prototypes and intuitive user experiences.
+🚀 Olá! Eu sou o Pedro, desenvolvedor fullstack e designer com paixão por IA generativa, automação inteligente e experiências digitais intuitivas. Trabalho na interseção entre tecnologia e design, entregando soluções escaláveis que combinam dados, inteligência artificial e interfaces de alto impacto.
+
+---
+
+### 🧠 Principais Focos Atuais
+
+- 🤖 **Inteligência Artificial & Automação** com LangChain, CrewAI, OpenAI API, Hugging Face, Langflow e n8n  
+- 🧩 **MCP (Machine-Centric Programming)** aplicado ao desenvolvimento de agentes autônomos com engenharia de prompt avançada  
+- 🔍 **Visão Computacional e Deep Learning** com YOLOv8 (Ultralytics), OpenCV, TensorFlow e PyTorch  
+- 📊 **Ciência de Dados & Machine Learning** com Pandas, NumPy, Scikit-learn e SciPy  
+- 🌐 **Desenvolvimento Fullstack** com React, Vue, Next.js, Node.js, Flask, FastAPI  
+- ☁️ **Cloud Computing com AWS**: EC2, Lambda, S3, DynamoDB, CloudWatch, API Gateway, Auto Scaling  
+- 🧪 Criação de **pipelines inteligentes**, sistemas preditivos e soluções web/mobile com integração em tempo real
+
+---
+
+### 📫 Conecte-se comigo
 
 <p align="center">
     <a href="https://www.linkedin.com/in/pedroluccaga/" target="_blank">
-        <img 
-            alt="LinkedIn Profile" 
-            title="LinkedIn Profile" 
-            width="50px"
-            src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"
-        />
+        <img alt="LinkedIn Profile" title="LinkedIn Profile" width="50px"
+        src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"/>
     </a>
 </p>
 
+---
+### 🛠️ Tech Stack & Ferramentas
+
+#### 🧠 Inteligência Artificial & Dados
+LangChain • CrewAI • OpenAI API • Hugging Face • Langflow • n8n • TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • SciPy • YOLO (Ultralytics) • OpenCV
+
+#### 🌍 Fullstack Development
+React • Vue (v2/v3) • Next.js • React Native • Node.js • Express • Flask • FastAPI • MongoDB • PostgreSQL • GraphQL • REST APIs
+
+#### ☁️ Cloud & DevOps
+AWS (EC2 • Lambda • S3 • DynamoDB • CloudWatch • API Gateway • Auto Scaling) • Render • Vercel • Jenkins • GitHub Actions • CI/CD Pipelines
+
+#### 🎨 UI/UX & Design
+Figma • Adobe Illustrator • Photoshop • After Effects • Tailwind CSS • Bootstrap • SASS
+
+#### 🧪 Versionamento & Testes
+Git • GitHub • Postman • Insomnia
 
 ---
 
 ### 🤖 Languages and Technologies
-
 
 #### **Programming Languages**
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -75,3 +107,7 @@ src="https://avatars.githubusercontent.com/u/85702467?s=280&v=4"/>
 <br/>
 <br/>
 
+---
+
+### 💬 Frase de efeito
+<p align="center"><em>"Merging AI and design to craft experiences that think, learn, and evolve."</em></p>
