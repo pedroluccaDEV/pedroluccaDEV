@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<URL_DO_BANNER>" alt="Pedro Lucca - AI Developer Banner" width="100%" />
+  <img src="banner.png" alt="Pedro Lucca - AI Developer Banner" width="100%" />
 </p>
 
 # 👨🏾‍💻 Pedro Lucca
