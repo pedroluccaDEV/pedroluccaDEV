@@ -109,5 +109,4 @@ src="https://avatars.githubusercontent.com/u/85702467?s=280&v=4"/>
 
 ---
 
-### 💬 Frase de efeito
 <p align="center"><em>"Merging AI and design to craft experiences that think, learn, and evolve."</em></p>
